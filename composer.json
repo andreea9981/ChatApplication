@@ -10,9 +10,9 @@
         "inertiajs/inertia-laravel": "^0.6.8",
         "laravel/framework": "^9.19",
         "laravel/jetstream": "*",
-        "laravel/passport": "^11.9",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
+        "pusher/pusher-php-server": "^7.2",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
